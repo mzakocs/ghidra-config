@@ -76,6 +76,10 @@
         <STATE NAME="KeyCode" TYPE="int" VALUE="76" />
         <STATE NAME="Modifiers" TYPE="int" VALUE="130" />
     </WRAPPED_OPTION>
+    <WRAPPED_OPTION NAME="Redo (GhidraScriptMgrPlugin)" CLASS="ghidra.framework.options.WrappedKeyStroke">
+        <STATE NAME="KeyCode" TYPE="int" VALUE="89" />
+        <STATE NAME="Modifiers" TYPE="int" VALUE="130" />
+    </WRAPPED_OPTION>
     <WRAPPED_OPTION NAME="Copy (DataTypeManagerPlugin)" CLASS="ghidra.framework.options.WrappedKeyStroke">
         <STATE NAME="KeyCode" TYPE="int" VALUE="67" />
         <STATE NAME="Modifiers" TYPE="int" VALUE="130" />
@@ -145,7 +149,7 @@
         <STATE NAME="Modifiers" TYPE="int" VALUE="130" />
     </WRAPPED_OPTION>
     <WRAPPED_OPTION NAME="Choose Data Type (Shared)" CLASS="ghidra.framework.options.WrappedKeyStroke">
-        <STATE NAME="KeyCode" TYPE="int" VALUE="84" />
+        <STATE NAME="KeyCode" TYPE="int" VALUE="89" />
         <STATE NAME="Modifiers" TYPE="int" VALUE="0" />
     </WRAPPED_OPTION>
     <WRAPPED_OPTION NAME="Symbol Table (Shared)" CLASS="ghidra.framework.options.WrappedKeyStroke">
@@ -500,6 +504,10 @@
         <STATE NAME="KeyCode" TYPE="int" VALUE="46" />
         <STATE NAME="Modifiers" TYPE="int" VALUE="130" />
     </WRAPPED_OPTION>
+    <WRAPPED_OPTION NAME="Undo (GhidraScriptMgrPlugin)" CLASS="ghidra.framework.options.WrappedKeyStroke">
+        <STATE NAME="KeyCode" TYPE="int" VALUE="90" />
+        <STATE NAME="Modifiers" TYPE="int" VALUE="130" />
+    </WRAPPED_OPTION>
     <WRAPPED_OPTION NAME="Print (PrintingPlugin)" CLASS="ghidra.framework.options.WrappedKeyStroke">
         <STATE NAME="KeyCode" TYPE="int" VALUE="80" />
         <STATE NAME="Modifiers" TYPE="int" VALUE="130" />
@@ -531,6 +539,10 @@
     <WRAPPED_OPTION NAME="Open/Close Program View (ProgramDiffPlugin)" CLASS="ghidra.framework.options.WrappedKeyStroke">
         <STATE NAME="KeyCode" TYPE="int" VALUE="67" />
         <STATE NAME="Modifiers" TYPE="int" VALUE="650" />
+    </WRAPPED_OPTION>
+    <WRAPPED_OPTION NAME="Save Script (GhidraScriptMgrPlugin)" CLASS="ghidra.framework.options.WrappedKeyStroke">
+        <STATE NAME="KeyCode" TYPE="int" VALUE="83" />
+        <STATE NAME="Modifiers" TYPE="int" VALUE="130" />
     </WRAPPED_OPTION>
     <WRAPPED_OPTION NAME="Retype Field (DecompilePlugin)" CLASS="ghidra.framework.options.WrappedKeyStroke">
         <STATE NAME="KeyCode" TYPE="int" VALUE="76" />
